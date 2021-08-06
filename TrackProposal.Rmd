@@ -1,0 +1,38 @@
+---
+title: "Track Proposal : Power BI"
+output: pdf_document
+---
+
+
+## Introduction to Power BI (existing)
+
+Course description : Gain a 360° overview of how to explore and use Power BI to build impactful reports. In this course, you’ll go from zero to hero, as you discover how to use this popular business intelligence platform through hands-on exercises. You’ll first learn how to confidently load and transform data using Power Query and the importance of data models, before diving into creating visualizations using Power BI’s drag-and-drop functionality. You’ll also learn how to drill-down into reports and make your reports fully interactive. Lastly, you'll level-up your skills using DAX formulas (Data Analysis Expressions) to create customized calculated columns and fields to better analyze your data. Get started now. You've got the power!
+
+## Importing and cleaning data in Power BI
+
+Importing and manipulation data are an important part of working with Power BI. If done well, it makes your life way more easier for the data visualisation and the others following steps. It takes time but it is essential if you want your work to be accurate and flawless. Power BI is a powerful tool that can be linked to multiple programs and cloud to simplify your life provided you know how to use it. In this course, you will learn step by step how to correctly import your data from multiple sources, how to clean your dataset according to your needs, how to arrange it properly to have a correct vision on it and how to import multiple dataset and link them together to form a harmonious and useful set. 
+
+## Data Modeling in Power BI (existing)
+
+Proper data modeling is the foundation of data analysis and creating reports in Power BI. This course lets you explore a toolbox of data cleaning, shaping, and loading techniques, which you can apply to your data. You'll get to know how to choose between Power Query and Power BI, learn about facts, dimensions, and their relationships, explore the use of quick measures and hierarchies, and write DAX to fully customize your data model. Some best practices are also discussed to improve the performance of your reports. You'll apply all of this on real-world datasets, issued by the United States Census Bureau.
+
+## Creating dashboard in Power BI
+
+Dashboards are essential to make data-driven decisions especially in the world of business and management. Learning how to build the right dashboard is necessary and will make your life easier. Having a global view on an issue will allows you to communicate properly the needs and flaws on almost any problem or situation. In this course, you'll learn to apply dashboard-composition best practices by adding interactivity when it is needed, how to choose your theme, your colors and how to dispose your graphs. You will also learn how to properly dispose your datas with the tools at your disposal in order to be relevant for your interlocutor. 
+
+## DAX in Power BI (existing)
+
+DAX, or Data Analysis eXpressions, is a programming language used in Microsoft Power BI to create calculated columns, measures, and custom tables. Once mastered, DAX gives you powerful control over visuals and reports, allowing for better performance and more flexibility. In this course, you'll get to grips with a wide range of DAX calculations and learn best practices for how to use them in your projects.
+
+## Data analysis in Power BI
+
+It is not a coincidence that more and more Companies and institutions around the world are using Power BI. Even without any data science formation, you can build amazing dashboards with relevant graphs for your own purpose.It is, however, important to learn which data visualisation and which graph to use for which purpose. An issue can seems very different depending on the visualisation you offer and an entiere decision can be different according to how you present the datas. In this course, you’ll develop employable analyst skills as you will learn which analysis to do according to your datas, which visualization to use depending on your purpose and basically how to correctly analyse your data. 
+
+
+## Introduction to Statistics with Power BI
+
+Even if Power BI is a powerful visualization tool, it is also possible to draw statistics from your data. To visualize your data and to compute statistics from them in order to draw conclusions are two different skills. Being able to do both will give you a lot of knowledge and as you know, knowledge is power. In this course, you will grow your statistical skills and learn how to use statistical tools already implemented in the Power BI and even how to create your own based on DAX function you will create. Probabilities, statistical reasoning and functions will have no more secrets for you.
+
+## Shared Interface with Power BI
+
+Building your dashboard with the right graphs, the right tools and the right colors is perfect but how can you share it with the world? Power BI have a cloud service for you to share your work and even collaborate with others people on the same dashboard. In this course you will learn how to give access to your work to others people whether it is only to check your dashboard or to collaborate. You will also learn to program an automatic refresh for your dataset to update your dashboard when you want and even how to program an automated notification email for the people consulting your work on a regular basis. 
