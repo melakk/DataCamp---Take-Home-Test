@@ -5,34 +5,34 @@ output: pdf_document
 
 # Course : Creating Dashboard in PBI    
 
-## "Chapter 1 -Introduction to dashboards"
+## Chapter 1 -Introduction to dashboards
 
-#### Lesson 1.1 -Why using dashboard? 
+* Lesson 1.1 -Why using dashboard? :
 Learner will be able to identify the advantages of using a dashboard in a decision-making environment. 
 
-#### Lesson 1.2 -Getting started
+* Lesson 1.2 -Getting started :
 Learner will be able to develop a dashboard with the minimal features. 
 
-## "Chapter 2 -Graphs and visualization"
+## Chapter 2 -Graphs and visualization
 
-#### Lesson 2.1 -Different graphs
+* Lesson 2.1 -Different graphs :
 Learner will be able to recall the different graphs and their utilization. 
 
-#### Lesson 2.2 -Interactivity
+* Lesson 2.2 -Interactivity :
 Learner will be able to add interactivity to the dashboard created. 
 
-## "Chapter 3 -KPI and numbered informations"
+## Chapter 3 -KPI and numbered informations
 
-#### Lesson 3.1 -KPI
+* Lesson 3.1 -KPI :
 Learner will be able to identify the KPI "graphs" and learn how to use them properly.
 
-#### Lesson 3.2 -Cards and others
+* Lesson 3.2 -Cards and others :
 Learner will be able to use others numbered features that aren't visual. 
 
-## "Chapter 4 -Advanced dashboarding techniques"
+## Chapter 4 -Advanced dashboarding techniques
 
-#### Lesson 4.1 -Application
+* Lesson 4.1 -Application :
 Learner will be able to build an application based on their finished dashboard. 
 
-#### Lesson 4.2 -Themes and interface 
+* Lesson 4.2 -Themes and interface :
 Learner will be able to create his own theme and learn about the publishing interface. 
